@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akins4yet
-- 👀 I’m interested in PHP,html, CSS,Ajax, android programming with Java,
-- 🌱 I’m currently learning PHP, Css3 and HTML
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in PHP,html, CSS,Ajax, android programming with Java,Python,Power Bi,Python ML.
+- 🌱 I’m currently learning Software DevOps at ALX 
+- 💞️ I’m looking to collaborate on Data Analysis,Machine Language,Software DevOps,...
 - 📫 How to reach me akins42good@gmail.com
 
 <!---
